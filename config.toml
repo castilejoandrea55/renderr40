@@ -1,0 +1,4 @@
+baseURL = "https://lifesheetmusiczoom.vercel.app"
+languageCode = "en-us"
+title = "Life Sheet Music 2021"
+theme = "hugo-theme-minos"
